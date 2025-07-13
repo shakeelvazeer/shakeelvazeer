@@ -74,6 +74,18 @@ Coding is my passion, and I thoroughly enjoy immersing myself in the world of so
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40"/>
   </a>
   <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" width="40"/>
+  </a>
+    <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40"/>
+  </a>
+    <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40"/>
+  </a>
+  <a href="#">
     <i class="devicon-nextjs-original-wordmark" style="font-size:50px;"></i>      
   </a>
 </p>
