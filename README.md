@@ -5,7 +5,7 @@
 </p>
 
 
-<p>"A Software Engineering graduate from the University of Westminster (Informatics Institute of Technology) now working as a Web Developer. I build robust and user-centric web applications while actively pursuing a passion for Machine Learning and AI through personal projects. I am driven by the challenge of integrating intelligent systems into practical, real-world software."</p>
+<p>A Software Engineering graduate from the University of Westminster (Informatics Institute of Technology) now working as a Web Developer. I build robust and user-centric web applications while actively pursuing a passion for Machine Learning and AI through personal projects. I am driven by the challenge of integrating intelligent systems into practical, real-world software.</p>
 
 <h2 align="center">Connect with Me ! 🤝</h2> 
 
