@@ -5,8 +5,7 @@
 </p>
 
 
-<p>I am currently an undergraduate pursuing a Software Engineering degree at Informatics Institute of Technology, which is affiliated with University of Westminster.
-Coding is my passion, and I thoroughly enjoy immersing myself in the world of software engineering. But what truly sets me apart is my eagerness to explore diverse fields of work beyond software engineering.</p>
+<p>"A Software Engineering graduate from the University of Westminster (Informatics Institute of Technology) now working as a Web Developer. I build robust and user-centric web applications while actively pursuing a passion for Machine Learning and AI through personal projects. I am driven by the challenge of integrating intelligent systems into practical, real-world software."</p>
 
 <h2 align="center">Connect with Me ! 🤝</h2> 
 
