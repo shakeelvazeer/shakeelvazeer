@@ -1,7 +1,7 @@
 <img src="/media/patience.jpg">
 <h1 align="center">Hi Peeps👋, I'm Shakeel</h1>
 <p align="center">
-<a href="https://websignature.site/">Site</a> | <a href="https://x.com/shakeelvazeer">Twitter</a>
+<a href="https://websignature.lk/">Website</a> | <a href="https://x.com/shakeelvazeer">Twitter</a>
 </p>
 
 
