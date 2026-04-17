@@ -22,7 +22,8 @@
 <a href="mailto:m.v.m.shakeel@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
-
+  
+<!--
 ----
 
 <h3 align="left">Languages and Tools:</h3>
@@ -88,3 +89,4 @@
     <i class="devicon-nextjs-original-wordmark" style="font-size:50px;"></i>      
   </a>
 </p>
+-->
